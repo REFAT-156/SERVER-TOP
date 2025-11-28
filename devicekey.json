@@ -6,9 +6,15 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
+        "device_id": "3f4d764b844af0dee5c",
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    }
+    {
+        "device_id": "3f4d764baf0dee5c",
+        "key": "mralamin",
+        "expirydate": "15-06-2025",
+        "Allowoffline": true
     }
 ]
